@@ -45,7 +45,7 @@ else
     mount --bind /mnt/vendor/nvcfg /var/lib/lxc/android/rootfs/mnt/vendor/nvcfg
     mount /dev/sdc8 /mnt/vendor/nvdata -o rw
     mount --bind /mnt/vendor/nvdata /var/lib/lxc/android/rootfs/mnt/vendor/nvdata
-    mount /dev/sdc11 /mnt/vendor/protect1 /mnt/vendor/protect_f
+    mount /dev/sdc11 /mnt/vendor/protect_f
     mount --bind /mnt/vendor/protect_f /var/lib/lxc/android/rootfs/mnt/vendor/protect_f
     mount /dev/sdc12 /mnt/vendor/protect_s
     mount --bind /mnt/vendor/protect_s /var/lib/lxc/android/rootfs/mnt/vendor/protect_s
