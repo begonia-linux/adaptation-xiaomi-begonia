@@ -74,7 +74,7 @@ droidian-camera or pinhole not working.
 
 * Rúben Carneiro (https://github.com/rubencarneiro)
 
-* Sohrab Behdani (https://github.com/behdanisohrab)
+* Sohrab Behdani (https://github.com/behdanisohrab) (also from porters)
 
 * NotKit (https://github.com/NotKit)
 
