@@ -36,13 +36,13 @@ droidian-camera or pinhole not working.
 
 ### Sound:
 
-* Speaker: ❌
+* Speaker: ✔(bookworm)
 
-* Microphone: ❌
+* Microphone: ✔
 
-* Headphones: ❌
+* Headphones: ✔(bookworm)
 
-* Volume control: ❌
+* Volume control: ✔
 
 * Bluetooth Headphones: ✔
 
