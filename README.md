@@ -36,17 +36,17 @@ droidian-camera or pinhole not working.
 
 ### Sound:
 
-* Speaker: ✔(bookworm)
+* Speaker: ✔ (bookworm)
 
 * Microphone: ✔
 
-* Headphones: ✔(bookworm)
+* Headphones: ✔ (bookworm)
 
 * Volume control: ✔
 
 * Bluetooth Headphones: ✔
 
-* Call audio: ✔
+* Call audio: ✔ (great on bookworm, partialy on newest version)
 
 ### Network:
 
