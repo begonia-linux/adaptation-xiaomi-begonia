@@ -12,7 +12,7 @@ droidian-camera or pinhole not working.
 
 * Rotation: ✔
 
-* Fingerprint: ✔
+* Fingerprint: ? (temporary disabled)
 
 * Auto brightness: ❌
 
