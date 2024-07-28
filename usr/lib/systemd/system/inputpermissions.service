@@ -1,0 +1,11 @@
+[Unit]
+Description=Fix power button not working
+Requires=lxc@android.service
+Before=phosh.service
+
+[Service]
+Type=oneshot
+ExecStart=/bin/sh -c 'chmod -R 777 /dev/input /dev/uinput /dev/uhid; chmod 700 /dev/input/event1; chown root:root /dev/input/event1'
+
+[Install]
+WantedBy=multi-user.target
