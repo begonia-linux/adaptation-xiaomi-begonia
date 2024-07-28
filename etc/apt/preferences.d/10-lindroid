@@ -1,0 +1,3 @@
+Package: *
+Pin: origin repo.lindroid.org
+Pin-Priority: 2000
