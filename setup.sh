@@ -3,7 +3,7 @@
 # Run as root!
 
 # Plasma installation
-cp /adaptation-xiaomi-begonia/etc/apt/source.list.d/lindroid.list /etc/apt/source.list.d
+cp /adaptation-xiaomi-begonia/etc/apt/sources.list.d/lindroid.list /etc/apt/sources.list.d
 cp /adaptation-xiaomi-begonia/etc/apt/preferences.d/10-lindroid /etc/apt/preferences.d
 mkdir -p /tmp/run/systemd/resolve
 echo "nameserver 9.9.9.11" > /tmp/run/systemd/resolve/stub-resolv.conf
