@@ -93,4 +93,7 @@ Kernel: https://github.com/begonia-linux/linux-android-begonia
 
 Organization link: https://github.com/begonia-linux
 
-### Main porter: Halhadus (https://github.com/Halhadus)
+## Contributors: 
+* Halhadus (https://github.com/Halhadus) (Main porter)
+
+* rifux (https://github.com/rifux) (Second main porter)
