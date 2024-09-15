@@ -1,9 +1,11 @@
-adaptation-xiaomi-begonia (1.0.0+git20240913221329.92aa438.droidian) UNRELEASED; urgency=medium
+adaptation-xiaomi-begonia (1.0.1+git20240915203356.ef8f8eb.droidian) UNRELEASED; urgency=medium
 
   [ Halhadus ]
   * 
 
   [ Halhadus ]
   * Create contributors list on README and add rifux to contributor list
+  * First run script modified for prevent after upgrade problems
+  * Pbhelper removed and phosh backlight environment file added
 
- -- Halhadus <eneshakans45@proton.me>  Fri, 13 Sep 2024 22:13:29 +0000
+ -- Halhadus <eneshakans45@proton.me>  Sun, 15 Sep 2024 20:33:56 +0000
