@@ -68,7 +68,7 @@ With droidian-camera & gst backend it's working
 
 * Encryption: ❌
 
-* MTP: ❌ (needed configuration not maked, can work)
+* MTP: ✔
 
 ## Thanks to:
 
