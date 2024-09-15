@@ -20,6 +20,7 @@
 /usr/lib/adaptation-xiaomi-begonia/trusted.gpg.d
 /usr/lib/droidian/device
 /usr/lib/systemd/system
+/usr/lib/systemd/system/phosh.service.d
 /mnt/vendor
 /mnt/vendor/nvcfg
 /mnt/vendor/nvdata
