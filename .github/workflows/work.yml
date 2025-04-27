@@ -56,7 +56,7 @@ jobs:
           retention-days: 1
 
   prepare:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     name: Create GitHub release
     needs: build
 
@@ -76,7 +76,7 @@ jobs:
           tag: latest
 
   publish:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     needs: prepare
 
     name: Publish linux-image
